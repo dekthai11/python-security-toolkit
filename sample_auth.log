@@ -1,0 +1,9 @@
+Jan 10 10:00:01 server sshd[100]: Failed password for root from 203.0.113.7 port 22 ssh2
+Jan 10 10:01:01 server sshd[101]: Failed password for root from 203.0.113.7 port 22 ssh2
+Jan 10 10:02:01 server sshd[102]: Failed password for root from 203.0.113.7 port 22 ssh2
+Jan 10 10:03:01 server sshd[103]: Failed password for root from 203.0.113.7 port 22 ssh2
+Jan 10 10:04:01 server sshd[104]: Failed password for root from 203.0.113.7 port 22 ssh2
+Jan 10 10:05:01 server sshd[105]: Failed password for root from 203.0.113.7 port 22 ssh2
+Jan 10 10:10:15 server sshd[200]: Failed password for admin from 198.51.100.4 port 22 ssh2
+Jan 10 10:11:15 server sshd[201]: Failed password for admin from 198.51.100.4 port 22 ssh2
+Jan 10 10:20:00 server sshd[300]: Accepted password for alice from 192.0.2.10 port 22 ssh2
