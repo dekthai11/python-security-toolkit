@@ -76,6 +76,8 @@ python -m pytest
 Apiwat Srisawang - Dublin, Ireland
 LinkedIn: https://www.linkedin.com/in/apiwat-srisawang/
 
+![Tests](https://github.com/dekthai11/python-security-toolkit/actions/workflows/tests.yml/badge.svg)
+
 ## Disclaimer
 
 For educational and defensive use only. Sample data in this repo is fake.
